@@ -1,0 +1,29 @@
+.contact {
+    text-align: center;
+}
+
+.logos {
+    margin: 0px 400px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.gmailLogo{
+    width: 30px;
+    height: auto;
+    margin: 30px;
+}
+
+.facebookLogo {
+    width: 30px;
+    height: auto;
+    margin: 30px;
+}
+
+.instagramLogo { 
+    width: 30px;
+    height: auto;
+    margin: 30px;
+}

@@ -1,0 +1,28 @@
+.expertise {
+    width: 100%;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.expertiseContainer {
+    text-align: center;
+    padding: 0px 50px;
+    margin: 5px 50px;
+    display: flex; /* Use flexbox to enable side-by-side layout */
+    align-items: center; /* Center items vertically */
+    justify-content: space-between; /* Add space between items */
+}
+
+.expertiseInfo {
+    width: 50%; /* Adjust the width as needed */
+    margin: 50px;
+    text-align: left; /* Align text to the left */
+    font-size: 19px;
+}
+
+.handtools {
+    width: 450px;
+    height: auto;
+}

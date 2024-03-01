@@ -1,0 +1,15 @@
+.gallery {
+    margin: 200px 20px;
+    text-align: center;
+    
+}
+
+
+
+.img {
+    margin: 20px;
+   
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    width: auto;
+    height: 324px;
+}
