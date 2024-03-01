@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MadeByWills/static/css/main.f845b9c8.css",
+    "main.js": "/MadeByWills/static/js/main.c54ee2fe.js",
+    "static/js/453.2032fdd9.chunk.js": "/MadeByWills/static/js/453.2032fdd9.chunk.js",
+    "static/media/modernCoffeeTable.png": "/MadeByWills/static/media/modernCoffeeTable.87e0103a4d49c66180a5.png",
+    "static/media/coaster.png": "/MadeByWills/static/media/coaster.d0937b41d7e1f54b9784.png",
+    "static/media/livingroom.png": "/MadeByWills/static/media/livingroom.ec3e57ddb74a682c7abe.png",
+    "static/media/Coffee_Table.png": "/MadeByWills/static/media/Coffee_Table.9b45c1e424bc7c4f7d29.png",
+    "static/media/modernSideTableWShelves.png": "/MadeByWills/static/media/modernSideTableWShelves.8c829345421dd9fb8c3e.png",
+    "static/media/jewleryBox1.png": "/MadeByWills/static/media/jewleryBox1.4a4f70422d00ceeed98e.png",
+    "static/media/Farmhouse_SideTable.png": "/MadeByWills/static/media/Farmhouse_SideTable.9df5413eb74fd2d391b8.png",
+    "static/media/HandTools.jpg": "/MadeByWills/static/media/HandTools.c5e30256b61f3265cc59.jpg",
+    "static/media/Side_Table.png": "/MadeByWills/static/media/Side_Table.f6b764771122b23fe584.png",
+    "static/media/WillsEdgarWoodworking.png": "/MadeByWills/static/media/WillsEdgarWoodworking.9e847e560b4ffec835df.png",
+    "index.html": "/MadeByWills/index.html",
+    "main.f845b9c8.css.map": "/MadeByWills/static/css/main.f845b9c8.css.map",
+    "main.c54ee2fe.js.map": "/MadeByWills/static/js/main.c54ee2fe.js.map",
+    "453.2032fdd9.chunk.js.map": "/MadeByWills/static/js/453.2032fdd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f845b9c8.css",
+    "static/js/main.c54ee2fe.js"
+  ]
+}
