@@ -1,7 +1,7 @@
 import "./Contact.css";
-import gmailLogo from "../../assets/gmail.svg";
-import facebookLogo from "../../assets/facebookLogo.svg";
-import instagramLogo from "../../assets/instagramLogo.svg";
+import gmailLogo from "../../assets/gmail-logo.png";
+import facebookLogo from "../../assets/facebooklogo.png";
+import instagramLogo from "../../assets/instagram-logo.png";
 
 function Contact() {
   return (
