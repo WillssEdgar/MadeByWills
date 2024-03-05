@@ -1,10 +1,10 @@
 import "./Home.css";
 import livingRoomImage from "../../assets/livingroom.png"; // Import your image
+import { ScrollLink } from "react-scroll";
 
 function Home() {
   return (
     <div className="home">
-      <h1 className="galleryButton">View My Work</h1>
       <img
         src={livingRoomImage}
         alt="Living Room"
